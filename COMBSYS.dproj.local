@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/27 21:46:17.000.428,=C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/27 21:47:13.000.101,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\fortes\COMBSYS\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/03/27 21:47:13.000.101,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\fortes\COMBSYS\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/03/27 21:48:13.000.759,C:\Users\Windows\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\fortes\COMBSYS\COMBSYS.dproj</Transaction>
+    <Transaction>2023/03/28 07:22:02.000.421,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 07:22:22.000.259,C:\fortes\COMBSYS\view\UfrmTanques.pas=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 07:22:22.000.259,C:\fortes\COMBSYS\view\UfrmTanques.dfm=C:\fortes\COMBSYS\Unit1.dfm</Transaction>
+    <Transaction>2023/03/30 08:18:26.000.737,=C:\fortes\COMBSYS\Unit2.pas</Transaction>
+    <Transaction>2023/03/30 08:18:37.000.752,C:\fortes\COMBSYS\Unit2.pas=C:\fortes\COMBSYS\view\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/03/30 08:18:37.000.752,C:\fortes\COMBSYS\Unit2.dfm=C:\fortes\COMBSYS\view\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/03/30 10:51:53.000.995,=C:\fortes\COMBSYS\Unit3.pas</Transaction>
+    <Transaction>2023/03/30 10:52:09.000.007,C:\fortes\COMBSYS\Unit3.pas=C:\fortes\COMBSYS\view\UfrmBase.pas</Transaction>
+    <Transaction>2023/03/30 10:52:09.000.007,C:\fortes\COMBSYS\Unit3.dfm=C:\fortes\COMBSYS\view\UfrmBase.dfm</Transaction>
+    <Transaction>2023/03/30 14:21:11.000.528,C:\fortes\COMBSYS\view\UfrmTanques.pas=</Transaction>
+    <Transaction>2023/03/30 16:42:57.000.339,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 16:43:34.000.172,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\model\UdmPrincipal.pas</Transaction>
+    <Transaction>2023/03/30 16:43:34.000.172,C:\fortes\COMBSYS\Unit1.dfm=C:\fortes\COMBSYS\model\UdmPrincipal.dfm</Transaction>
+    <Transaction>2023/03/30 17:05:22.000.776,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 17:07:28.000.490,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\model\UCon.Model.pas</Transaction>
+    <Transaction>2023/03/30 17:13:51.000.755,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 17:14:20.000.935,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\interfarce\UICon.pas</Transaction>
+    <Transaction>2023/03/30 17:27:48.000.678,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 17:28:39.000.369,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\model\UFactoryTabelas.Model.pas</Transaction>
+    <Transaction>2023/03/30 17:29:09.000.343,C:\fortes\COMBSYS\model\UFactoryTabelas.Model.pas=</Transaction>
+    <Transaction>2023/03/30 17:29:37.000.213,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 17:30:20.000.664,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\model\UTabelas.Factory.Model.pas</Transaction>
+    <Transaction>2023/03/30 17:36:46.000.180,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 17:37:31.000.324,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\interfarce\UITabela.Factory.pas</Transaction>
+    <Transaction>2023/03/30 20:43:36.000.231,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 20:43:57.000.590,C:\fortes\COMBSYS\Unit1.dfm=C:\fortes\COMBSYS\view\UfrmTanques.dfm</Transaction>
+    <Transaction>2023/03/30 20:43:57.000.590,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\view\UfrmTanques.pas</Transaction>
+    <Transaction>2023/03/30 20:51:11.000.531,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/30 20:51:35.000.748,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\controller\UCon.Controller.pas</Transaction>
+    <Transaction>2023/03/31 16:08:25.000.940,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/31 16:09:13.000.067,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\factory\UTabela.Factory.Controller.pas</Transaction>
+    <Transaction>2023/03/31 20:43:28.000.131,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/03/31 20:44:10.000.994,C:\fortes\COMBSYS\Unit1.dfm=C:\fortes\COMBSYS\view\UfrmBombas.dfm</Transaction>
+    <Transaction>2023/03/31 20:44:10.000.994,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\view\UfrmBombas.pas</Transaction>
+    <Transaction>2023/04/01 10:18:26.000.528,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/04/01 10:18:44.000.798,C:\fortes\COMBSYS\Unit1.dfm=C:\fortes\COMBSYS\view\UfrmAbastecimentos.dfm</Transaction>
+    <Transaction>2023/04/01 10:18:44.000.798,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\view\UfrmAbastecimentos.pas</Transaction>
+    <Transaction>2023/04/01 12:14:50.000.127,=C:\fortes\COMBSYS\Unit1.pas</Transaction>
+    <Transaction>2023/04/01 12:22:12.000.017,C:\fortes\COMBSYS\Unit1.pas=C:\fortes\COMBSYS\relatorio\UrptRelAbastecimentos.pas</Transaction>
+    <Transaction>2023/04/01 12:22:12.000.017,C:\fortes\COMBSYS\Unit1.dfm=C:\fortes\COMBSYS\relatorio\UrptRelAbastecimentos.dfm</Transaction>
+    <Transaction>2023/04/01 12:23:17.000.080,=C:\fortes\COMBSYS\Unit2.pas</Transaction>
+    <Transaction>2023/04/01 12:23:45.000.809,C:\fortes\COMBSYS\Unit2.dfm=C:\fortes\COMBSYS\view\UfrmFiltroRelAbastecimentos.dfm</Transaction>
+    <Transaction>2023/04/01 12:23:45.000.809,C:\fortes\COMBSYS\Unit2.pas=C:\fortes\COMBSYS\view\UfrmFiltroRelAbastecimentos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
