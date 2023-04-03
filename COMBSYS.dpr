@@ -15,7 +15,8 @@ uses
   UfrmBombas in 'view\UfrmBombas.pas' {frmBombas},
   UfrmAbastecimentos in 'view\UfrmAbastecimentos.pas' {frmAbastecimentos},
   UrptRelAbastecimentos in 'relatorio\UrptRelAbastecimentos.pas' {rptRelAbasteciemntos},
-  UfrmFiltroRelAbastecimentos in 'view\UfrmFiltroRelAbastecimentos.pas' {frmFiltroRelAbastecimentos};
+  UfrmFiltroRelAbastecimentos in 'view\UfrmFiltroRelAbastecimentos.pas' {frmFiltroRelAbastecimentos},
+  UhelperFree in 'helper\UhelperFree.pas';
 
 {$R *.res}
 

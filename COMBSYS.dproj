@@ -139,6 +139,7 @@
             <Form>frmFiltroRelAbastecimentos</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="helper\UhelperFree.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -1004,7 +1005,7 @@
             </Platforms>
             <ModelSupport>False</ModelSupport>
             <UnitTesting>
-                <TestProjectName>C:\fortes\COMBSYS\Test\COMBSYSTests3.dproj</TestProjectName>
+                <TestProjectName>C:\fortes\COMBSYS\Test\COMBSYSTests.dproj</TestProjectName>
             </UnitTesting>
         </BorlandProject>
         <ProjectFileVersion>12</ProjectFileVersion>
