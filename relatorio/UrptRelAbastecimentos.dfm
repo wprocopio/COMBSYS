@@ -226,18 +226,18 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         Left = 0
         Top = 0
         Width = 718
-        Height = 49
+        Height = 40
         BeforePrint = RLBand2BeforePrint
         object RLLabel1: TRLLabel
           Left = 0
           Top = 0
-          Width = 91
-          Height = 16
+          Width = 77
+          Height = 15
           Caption = 'Data Abastec.'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -264,26 +264,26 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel2: TRLLabel
           Left = 99
           Top = 0
-          Width = 52
-          Height = 16
+          Width = 43
+          Height = 15
           Caption = 'Tanque'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
         object RLLabel3: TRLLabel
           Left = 198
           Top = 0
-          Width = 49
-          Height = 16
+          Width = 40
+          Height = 15
           Caption = 'Bomba'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -300,13 +300,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel4: TRLLabel
           Left = 297
           Top = 0
-          Width = 39
-          Height = 16
+          Width = 37
+          Height = 15
           Caption = 'Litros'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -323,13 +323,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel9: TRLLabel
           Left = 396
           Top = 0
-          Width = 38
-          Height = 16
+          Width = 34
+          Height = 15
           Caption = 'Valor'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -346,13 +346,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel15: TRLLabel
           Left = 498
           Top = 0
-          Width = 82
-          Height = 16
+          Width = 77
+          Height = 15
           Caption = 'Imposto 13%'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -369,14 +369,14 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
       end
       object RLBand3: TRLBand
         Left = 0
-        Top = 49
+        Top = 40
         Width = 718
-        Height = 39
+        Height = 47
         BandType = btSummary
         Borders.Sides = sdCustom
-        Borders.DrawLeft = False
+        Borders.DrawLeft = True
         Borders.DrawTop = True
-        Borders.DrawRight = False
+        Borders.DrawRight = True
         Borders.DrawBottom = True
         Borders.FixedTop = True
         Borders.FixedBottom = True
@@ -396,19 +396,19 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel6: TRLLabel
           Left = 285
           Top = 12
-          Width = 42
-          Height = 16
+          Width = 38
+          Height = 15
           Caption = 'Valor:'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
         object RLLabel10: TRLLabel
           Left = 3
-          Top = 6
+          Top = 10
           Width = 91
           Height = 19
           Caption = 'Total Diario'
@@ -422,13 +422,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel13: TRLLabel
           Left = 426
           Top = 12
-          Width = 58
-          Height = 16
+          Width = 49
+          Height = 15
           Caption = 'Imposto:'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -448,13 +448,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
         object RLLabel16: TRLLabel
           Left = 147
           Top = 12
-          Width = 43
-          Height = 16
+          Width = 41
+          Height = 15
           Caption = 'Litros:'
-          Font.Charset = DEFAULT_CHARSET
+          Font.Charset = ANSI_CHARSET
           Font.Color = clBlack
           Font.Height = -13
-          Font.Name = 'Arial'
+          Font.Name = 'Times New Roman'
           Font.Style = [fsBold]
           ParentFont = False
         end
@@ -482,7 +482,7 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
       BeforePrint = RLBand4BeforePrint
       object RLLabel11: TRLLabel
         Left = 0
-        Top = 46
+        Top = 38
         Width = 136
         Height = 19
         Caption = 'Total por Periodo'
@@ -496,26 +496,26 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
       object RLLabel8: TRLLabel
         Left = 442
         Top = 44
-        Width = 42
-        Height = 16
+        Width = 38
+        Height = 15
         Caption = 'Valor:'
-        Font.Charset = DEFAULT_CHARSET
+        Font.Charset = ANSI_CHARSET
         Font.Color = clBlack
         Font.Height = -13
-        Font.Name = 'Arial'
+        Font.Name = 'Times New Roman'
         Font.Style = [fsBold]
         ParentFont = False
       end
       object RLLabel14: TRLLabel
         Left = 426
         Top = 68
-        Width = 58
-        Height = 16
+        Width = 49
+        Height = 15
         Caption = 'Imposto:'
-        Font.Charset = DEFAULT_CHARSET
+        Font.Charset = ANSI_CHARSET
         Font.Color = clBlack
         Font.Height = -13
-        Font.Name = 'Arial'
+        Font.Name = 'Times New Roman'
         Font.Style = [fsBold]
         ParentFont = False
       end
@@ -538,13 +538,13 @@ object rptRelAbasteciemntos: TrptRelAbasteciemntos
       object RLLabel17: TRLLabel
         Left = 441
         Top = 17
-        Width = 43
-        Height = 16
+        Width = 41
+        Height = 15
         Caption = 'Litros:'
-        Font.Charset = DEFAULT_CHARSET
+        Font.Charset = ANSI_CHARSET
         Font.Color = clBlack
         Font.Height = -13
-        Font.Name = 'Arial'
+        Font.Name = 'Times New Roman'
         Font.Style = [fsBold]
         ParentFont = False
       end
